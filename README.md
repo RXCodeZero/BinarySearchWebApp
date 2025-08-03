@@ -66,3 +66,10 @@ The application will be accessible in your browser at [http://localhost:5173](ht
 
 ---
 
+## Screenshots
+<img width="1865" height="944" alt="Screenshot 2025-08-02 134032" src="https://github.com/user-attachments/assets/e0bc23b3-9087-4421-9b23-227e92252aee" />
+<img width="1870" height="946" alt="Screenshot 2025-08-02 134051" src="https://github.com/user-attachments/assets/9005f855-d0cb-4738-b0bc-5e4dfeef6490" />
+<img width="1874" height="945" alt="Screenshot 2025-08-02 134109" src="https://github.com/user-attachments/assets/f449651b-60dc-48be-b7bb-e3674461e7fa" />
+
+
+
